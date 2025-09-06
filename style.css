@@ -1,16 +1,36 @@
 body{background:beige;
-font-size:20px;
-color:rgb(48, 42, 35)}
-h1{color:rgb(98, 75, 52);
-font-family:'Courier New', Courier, monospace;
-font-size:80px}
-div{float:right;
-font-size:20px;
+font-size:30px;
+color:rgb(48, 42, 35);
+margin:10px
+}
+h1
+{color:rgb(254, 254, 254);
+font-family:Gill Sans;
+font-size:50px;
+color:rgb(98, 75, 52);
 text-align:center;
-border:3px solid black;
-vertical-align:top;
-margin:40px}
-h2{color:rgb(98, 75, 52);
+border:10px solid rgb(58, 37, 6);
+border-radius:30px;
+}
+h2
+{color:rgb(98, 75, 52);
 font-family:'Courier New', Courier, monospace;
 font-size:40px}
-hr{color:black:}
+hr
+{color:black:}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;          /* Arrange items in a row */
+  justify-content: center; /* Center horizontally */
+  gap: 20px;              /* Space between items */
+   border:2px
+}
+
+li {
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 6px;
+ }
