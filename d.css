@@ -1,0 +1,13 @@
+body{text-align:center;
+    background:rgb(137, 86, 86);
+color:black;
+font-family:courier;
+margin:20px;
+padding:20px;
+
+}
+h1{font-style:italic;
+border:5px solid rgb(84, 6, 6);
+border-radius:30px;
+font-size:50px}
+p{font-size:20px;}

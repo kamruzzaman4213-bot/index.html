@@ -1,5 +1,5 @@
 body{text-align:center;
-    background:rgb(110, 234, 203);
+    background:rgb(74, 68, 89);
 color:black;
 font-family:courier;
 margin:20px;
@@ -7,5 +7,5 @@ padding:20px;
 font-size:40px;
 }
 h1{font-style:italic;
-border:5px solid rgb(3, 64, 36);
+border:5px solid rgb(4, 4, 126);
 border-radius:30px}
