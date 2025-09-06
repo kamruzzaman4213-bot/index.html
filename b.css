@@ -5,6 +5,7 @@ font-family:courier;
 margin:20px;
 padding:20px;
 font-size:40px;
+border:3px solid rgb(1, 148, 148)
 }
 h1{font-style:italic;
 border:5px solid rgb(3, 64, 36);
