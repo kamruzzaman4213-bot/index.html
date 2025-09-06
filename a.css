@@ -1,0 +1,11 @@
+body{text-align:center;
+    background:rgb(148, 146, 132);
+color:black;
+font-family:courier;
+margin:20px;
+padding:20px;
+font-size:40px;
+}
+h1{font-style:italic;
+border:5px solid rgb(64, 3, 3);
+border-radius:30px}

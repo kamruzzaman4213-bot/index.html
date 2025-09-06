@@ -1,0 +1,16 @@
+body{background:beige;
+font-size:20px;
+color:rgb(48, 42, 35)}
+h1{color:rgb(98, 75, 52);
+font-family:'Courier New', Courier, monospace;
+font-size:80px}
+div{float:right;
+font-size:20px;
+text-align:center;
+border:3px solid black;
+vertical-align:top;
+margin:40px}
+h2{color:rgb(98, 75, 52);
+font-family:'Courier New', Courier, monospace;
+font-size:40px}
+hr{color:black:}
