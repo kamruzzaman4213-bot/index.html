@@ -9,3 +9,13 @@ border:5px solid rgb(84, 6, 6);
 border-radius:30px;
 font-size:50px}
 p{font-size:20px;}
+.floating-icon {
+  position: absolute;
+  animation: float 6s ease-in-out infinite;
+  size:20px
+}
+img {
+  /* Shadow: horizontal-offset | vertical-offset | blur-radius | color */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+  border-radius: 8px; /* optional, for rounded corners */
+}
